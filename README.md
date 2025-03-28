@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baosheng Zhang
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning 3D gaussian splattting
+- 🌱 I’m currently learning Privacy Computing
 - 💞️ I’m looking to collaborate on graphics with deep learning
 - 📫 How to reach me 2831532315@stu.xjtu.edu.cn
 
