@@ -1,6 +1,6 @@
 I am Baosheng Zhang, a CS sophomore from XJTU.
 
-I research at from Key Laboratory of Intelligent Networks and Cybersecurity, Ministry of Education.
+I research at Key Laboratory of Intelligent Networks and Cybersecurity, Ministry of Education.
 
 I'm currently working on Private Information Retrieval, Zero-Knowledge Proofs, Privacy Preserving Machine Learning, AI security and Blockchain.
 
