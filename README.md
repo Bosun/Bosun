@@ -8,7 +8,7 @@ Feel free to contact me by email[2831532315@qq.com] or QQ[2831532315]!
 
 Publications:
 
-[IEEE TIFS under review](secondary student author):[anonymous now]
+[under review]
 
 <!---
 Bosun/Bosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
