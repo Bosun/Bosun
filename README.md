@@ -1,4 +1,12 @@
-使用TenSEAL实现的全同态加密卷积神经网络推理：https://github.com/Bosun/VeryNaiveFHECNN
+I am Baosheng Zhang, a CS sophomore from XJTU.
+
+I research at from Key Laboratory of Intelligent Networks and Cybersecurity, Ministry of Education.
+
+I'm currently working on Private Information Retrieval, Zero-Knowledge Proofs, Privacy Preserving Machine Learning, AI security and Blockchain.
+
+Publications:
+
+[IEEE TIFS under review](secondary student author):[anonymous now]
 
 <!---
 Bosun/Bosun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
