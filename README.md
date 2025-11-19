@@ -4,6 +4,8 @@ I research at Key Laboratory of Intelligent Networks and Cybersecurity, Ministry
 
 I'm currently working on Private Information Retrieval, Zero-Knowledge Proofs, Privacy Preserving Machine Learning, AI security and Blockchain.
 
+Feel free to contact me by email[2831532315@qq.com] or QQ[2831532315]!
+
 Publications:
 
 [IEEE TIFS under review](secondary student author):[anonymous now]
